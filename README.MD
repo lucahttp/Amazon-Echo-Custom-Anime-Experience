@@ -40,3 +40,9 @@ https://hackaday.com/2021/03/22/amazon-echo-gets-open-source-brain-transplant/
 
 ## side
 - https://github.com/rhasspy/rhasspy
+
+
+
+
+
+write using https://stackedit.io/app#
